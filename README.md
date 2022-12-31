@@ -1,12 +1,12 @@
 # Project-Line-Counter
-This little program counts your total lines of source code and blank lines.
+This little program counts your total lines of source code and blank lines of your coding project.
 ## Usage
 In the first window, enter the path to your project´s root directory. This could look something like this: 
 <br><br>
 <img src="examplePictures/window1.png">
 <br><br>
 In the second window, you have to enter the file extensions of the files you want to count the lines of. So, e.g., if you want to count only java files, simply type java in the input box.
-If you want to include multiple file extensions in the counting process, seperate them by a comma like this:
+If you want to include multiple file extensions in the counting process, separate them by a comma like this:
 <br><br>
 <img src="examplePictures/window2.png">
 <br><br>
